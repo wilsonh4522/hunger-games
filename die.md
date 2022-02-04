@@ -1,3 +1,3 @@
 Oh no! You have died. But good news, you can try again.
-[Try again](beginning.md)
+[Try again](beggining.md)
 
