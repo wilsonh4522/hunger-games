@@ -1,3 +1,4 @@
+# Hunger Games
 You are standing aroud a cornucopia of weapons and supplies that you would need to survive for the hunger games. Also standing around the conicopia are 23 other poeple in the same situation as you. What do you do?
 1. [Do you run and attack the person who is next to you.](die.md)
 2. [Do you runaway from the cornicopia and the people.](terrain-choice.md)
