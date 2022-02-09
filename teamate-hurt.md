@@ -1,3 +1,3 @@
-Oh no! Your teammate gets ambushed by another team and they take your partner. Do you rush and save him or leave him and let him die
+Oh no! Your teammate gets ambushed by another team and they take your partner.
 1. [Rescue your teammate](die.md)
-2. [Betray him and runaway](meet-opponent.md)
+2. [Let him die and runaway](meet-opponent.md)
