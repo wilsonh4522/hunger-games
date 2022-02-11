@@ -1,4 +1,4 @@
-# hunger-games
+# Hunger Games
 # Introduction
 For our CYOA (Choose Your Own Adventure) project we chose to do the Hunger Games because we thought that it was intresting since there are many siuations and possibilities we can chose from. 
 1. [Click here to begin](https://github.com/wilsonh4522/hunger-games/blob/main/situations/beggining.md)
